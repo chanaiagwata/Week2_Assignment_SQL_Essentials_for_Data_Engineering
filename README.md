@@ -1,0 +1,1 @@
+# Week2_Assignment_SQL_Essentials_for_Data_Engineering
